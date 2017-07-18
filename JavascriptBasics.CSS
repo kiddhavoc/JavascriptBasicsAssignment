@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 990px;
+    background-color: #324675;
+    padding: 15px;
+
+}
+#top{
+    border-radius: 7px;
+    width: 950px;
+    background-color: #C71818;
+    color: #C0D2F4;
+    display: block;
+    padding: 10px;
+}
+#sidebar{
+    border-radius:7px;
+    width: 150px;
+    height: 160px;
+    background-color: #519B9B;
+    font-size: 9pt;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    vertical-align: top;
+}
+#maincontent{
+    width: 700px;
+    height: 400px;
+    border-radius: 7px;
+    background-color: #071240;
+    color: #C0D2F4;
+    font-size: 9pt;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+#bottom{
+    width: 920px;
+    border-radius: 7px;
+    background-color: #898D9B;
+    color: #C0D2F4;
+    font-size: 9pt;
+    display: block;
+    padding: 15px;
+}
+.purpWords{
+    color: #CD9CF3;
+}
+ul > li {
+    margin-left: 11px;
+}
+
+ul ul{
+    margin-left: 15px;
+}
